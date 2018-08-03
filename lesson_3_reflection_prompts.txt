@@ -1,14 +1,13 @@
 When would you want to use a remote repository rather than keeping all your work
 local?
 
-Some more stylings by the talented Bob Ross: We're trying to teach you a technique here and how to use it. We'll have a super time. Let's do it again then, what the heck. Talent is a pursued interest. That is to say, anything you practice you can do. This is probably the greatest thing that's ever happened in my life.
+** Some more stylings by the talented Bob Ross: We're trying to teach you a technique here and how to use it. We'll have a super time. Let's do it again then, what the heck. Talent is a pursued interest. That is to say, anything you practice you can do. This is probably the greatest thing that's ever happened in my life.
 
 
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
 
-    Fill in your answer here
-
+** B/c I am a crazy control freek, thank you very much.
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
 
