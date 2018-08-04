@@ -17,7 +17,7 @@ use one instead of another?
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+** Brown is such a nice color. Only God can make a tree - but you can paint one. Let's make a nice big leafy tree. The first step to doing anything is to believe you can do it. See it finished in your mind before you ever start. Maybe he has a little friend that lives right over here. This is the fun part
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
